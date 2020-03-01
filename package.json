@@ -1,0 +1,11 @@
+{
+  "name": "gcf-puppeteer-tw-invonce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:taichunmin/gcf-puppeteer-tw-invonce.git",
+  "author": "taichunmin <taichunmin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
